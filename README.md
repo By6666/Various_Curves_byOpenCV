@@ -1,0 +1,1 @@
+# Various_Curves_byOpenCV
